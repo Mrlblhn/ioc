@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2d0; 
+}
+header {
+    background-color: #2c2C2ceA;
+    color: pink;
+    text-align: center;
+    padding: 15px;
+}
+h1 {
+    margin-left:10px;
+    font-size: 30px; 
+}
+nav{
+    background-color: yellowgreen;
+    text-align: center;
+}
+.textdreapta {
+    flex: 1;
+  
+}
+
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    border-style: dashed;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px ;
+}
